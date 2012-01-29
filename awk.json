@@ -1,0 +1,8 @@
+{
+	"name": "awk",
+	"one-liner": "Pattern-directed scanning and processing language.",
+	"whatsitusefulfor": "Give awk a go when you have some textual data that needs formatting for reports or input into another command!",
+	"manpageurl": "",
+	"author": "Alfred Aho, Peter Weinberger, Brian Kernighan",
+	"where": "http://cm.bell-labs.com/cm/cs/awkbook/index.html"
+}

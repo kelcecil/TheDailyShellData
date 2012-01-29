@@ -1,0 +1,8 @@
+{
+	"name": "apropos",
+	"one-liner": "search the whatis database for strings",
+	"whatsitusefulfor": "You can search a database containing descriptions of system commands and display the results on stdout.",
+	"manpageurl": "",
+	"author": "Federico Lucifredi, current maintainer",
+	"where": "None"
+}

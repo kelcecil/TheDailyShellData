@@ -1,0 +1,8 @@
+{
+	"name": "cowsay",
+	"one-liner": "queue, examine, or delete jobs for later execution",
+	"whatsitusefulfor": "at allows you to execute commands at a certain time."
+	"manpageurl": "",
+	"author": "Thomas Koenig",
+	"where": "None"
+}

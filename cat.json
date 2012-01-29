@@ -1,0 +1,8 @@
+{
+	"name:" "cat",
+	"one-liner": "concatenate and print files.",
+	"whatsitusefulfor": "Use it to read files, standard input using a single dash, or a UNIX socket.",
+	"manpageurl": "",
+	"author": "",
+	"where": "None"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "bc",
+	"one-liner": "an arbitrary precision calculator language",
+	"whatsitusefulfor": "Use this for some quick mathematical calculations using the command line!",
+	"manpageurl": "",
+	"author": "Philip A. Nelson",
+	"where": "http://www.gnu.org/software/bc/manual/html_mono/bc.html"
+}

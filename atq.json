@@ -1,0 +1,8 @@
+{
+	"name": "atq",
+	"one-liner": "queue, examine, or delete jobs for later execution",
+	"whatsitusefulfor": "atq lists the user's pending jobs in the queue, unless the user is a super user. If you're a super user, everyone's jobs are listed.",
+	"manpageurl": "",
+	"author": "Thomas Koenig",
+	"where": "None"
+}

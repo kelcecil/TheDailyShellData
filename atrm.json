@@ -1,0 +1,8 @@
+{
+	"name": "atrm",
+	"one-liner": "queue, examine, or delete jobs for later execution",
+	"whatsitusefulfor": "atrm allows you to delete queued jobs.",
+	"manpageurl": "",
+	"author": "Thomas Koenig",
+	"where": "None"
+}

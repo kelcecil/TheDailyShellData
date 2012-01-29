@@ -1,0 +1,8 @@
+{
+	"name": "cowsay",
+	"one-liner": "Give cowsay some text, and you get a cow saying your text!",
+	"whatsitusefulfor": "Try using cowsay for an amusing MOTD when users log through SSH.",
+	"manpageurl": "",
+	"author": "Tony Monroe",
+	"where": "http://www.nog.net/~tony/warez/cowsay.shtml"
+}
