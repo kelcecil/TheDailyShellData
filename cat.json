@@ -1,8 +1,7 @@
 {
-	"name:" "cat",
+	"name": "cat",
+	"uuid": "85d02f30-2cf9-012f-b7ab-1093e9053d34",
 	"one-liner": "concatenate and print files.",
 	"whatsitusefulfor": "Use it to read files, standard input using a single dash, or a UNIX socket.",
-	"manpageurl": "",
-	"author": "",
 	"where": "None"
 }

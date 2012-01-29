@@ -1,5 +1,6 @@
 {
 	"name": "atrm",
+	"uuid": "1e84ca70-2cf8-012f-b7a5-1093e9053d34",
 	"one-liner": "queue, examine, or delete jobs for later execution",
 	"whatsitusefulfor": "atrm allows you to delete queued jobs.",
 	"manpageurl": "",

@@ -1,5 +1,6 @@
 {
 	"name": "atq",
+	"uuid": "0f46f2c0-2cf8-012f-b7a4-1093e9053d34",
 	"one-liner": "queue, examine, or delete jobs for later execution",
 	"whatsitusefulfor": "atq lists the user's pending jobs in the queue, unless the user is a super user. If you're a super user, everyone's jobs are listed.",
 	"manpageurl": "",

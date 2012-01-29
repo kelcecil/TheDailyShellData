@@ -1,8 +1,8 @@
 {
 	"name": "batch",
+	"uuid": "f50a3560-2cf8-012f-b7a7-1093e9053d34",
 	"one-liner": "queue, examine, or delete jobs for later execution",
 	"whatsitusefulfor": "batch executes commands when system load levels permit (load average drops below _LOADAVG_MX or a value specified when executing atrun",
-	"manpageurl": "",
 	"author": "Thomas Koenig",
 	"where": "None"
 }
