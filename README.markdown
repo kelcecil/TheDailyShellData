@@ -17,13 +17,15 @@ What is the schema for commands?
 --------------------------------
 Good question! All of the files are in json format. The ingest process currently accepts the following attributes: 
 
-*  name - name of the command
+*  name - name of the command (required)
 *  partof - Project that contains/includes the command.
-*  uuid - uuid that uniquely identifies the command within the datastores.
+*  uuid - uuid that uniquely identifies the command within the datastores. (required)
 *  one-liner - A one sentence tagline describing what the command does.
 *  whatsitusefulfor - A more verbose explanation of what can be done when using the command.
 *  author - Current author or maintainer
 *  where - a URL to the web page or source of the command if it's not part of standard UNIX
+
+If you'd like to create a new command, please use the json_skeleton.rb script in the bin directory to create an empty json file with generated uuid.
 
 Can I use it in my own work?
 ----------------------------
