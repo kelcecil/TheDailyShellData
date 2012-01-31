@@ -18,9 +18,10 @@ What is the schema for commands?
 Good question! All of the files are in json format. The ingest process currently accepts the following attributes: 
 
 *  name - name of the command (required)
-*  partof - Project that contains/includes the command.
+*  partof - Parent project that contains/includes the command.
+*  partofurl - Parent project's URL
 *  uuid - uuid that uniquely identifies the command within the datastores. (required)
-*  one-liner - A one sentence tagline describing what the command does.
+*  one-liner - A one sentence tagline describing what the command does. (required)
 *  whatsitusefulfor - A more verbose explanation of what can be done when using the command.
 *  author - Current author or maintainer
 *  where - a URL to the web page or source of the command if it's not part of standard UNIX
