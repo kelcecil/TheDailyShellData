@@ -25,7 +25,7 @@ Good question! All of the files are in json format. The ingest process currently
 *  author - Current author or maintainer
 *  where - a URL to the web page or source of the command if it's not part of standard UNIX
 
-If you'd like to create a new command, please use the json_skeleton.rb script in the bin directory to create an empty json file with generated uuid.
+If you'd like to create a new command, please use the json_skeleton.rb script in the bin directory to create an empty json file with generated uuid. Just execute the script with ruby json_skeleton.rb, and you'll have a temp.json ready to go!
 
 Can I use it in my own work?
 ----------------------------
