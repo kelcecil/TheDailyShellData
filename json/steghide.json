@@ -1,0 +1,8 @@
+{
+	"name":"steghide",
+	"one-liner":"Hide your precious files within pictures or audio!",
+	"author":"Stefan Hetzl",
+	"whatsitusefulfor":"steghide utilizes steganography techniques to hide data within other data. This is great for hiding sensitive data in plain sight. No one suspects the innocent jpg to be hiding a secret!",
+	"where":"http://steghide.sourceforge.net/",
+	"uuid":"9e522c00-304f-012f-b7ff-1093e9053d34"
+}
