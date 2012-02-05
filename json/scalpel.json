@@ -1,6 +1,6 @@
 {
 	"name":"scalpel",
-	"whatisitusefulfor":"Scalpel is a file carver that's perfect for situations where the file allocation table has forgotten the whereabouts of a file that is still written to disk. Scalpel looks for a file header and \"carves\" files with known headers from the disk. Scalpel is easily extended to add support for more file headers!"
+	"whatisitusefulfor":"Scalpel is a file carver that's perfect for situations where the file allocation table has forgotten the whereabouts of a file that is still written to disk. Scalpel looks for a file header and \"carves\" files with known headers from the disk. Scalpel is easily extended to add support for more file headers!",
 	"where":"http://www.digitalforensicssolutions.com/Scalpel/",
 	"uuid":"f3f937f0-31c4-012f-c4ee-7efd480eb31b"
 }
